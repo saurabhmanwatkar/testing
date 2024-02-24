@@ -1,6 +1,3 @@
-# testing
-jenkins
-<!DOCTYPE html>
 <html>
 <body>
 
